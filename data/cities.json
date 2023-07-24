@@ -71,6 +71,90 @@
         "lng": "-0.087890625"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Jumilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:20:45.503Z",
+      "notes": "that",
+      "position": {
+        "lat": "38.44498466889473",
+        "lng": "-1.3842773437500002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Torreperogil",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:21:20.432Z",
+      "notes": "",
+      "position": {
+        "lat": "38.013476231041935",
+        "lng": "-3.251953125"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Acered",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:22:49.070Z",
+      "notes": "",
+      "position": {
+        "lat": "41.178653972331674",
+        "lng": "-1.6259765625"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Lumbreras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:23:40.024Z",
+      "notes": "",
+      "position": {
+        "lat": "42.081916678306335",
+        "lng": "-2.5927734375000004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Santa Cruz del Valle Urbion",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:26:06.063Z",
+      "notes": "",
+      "position": {
+        "lat": "42.261049162113856",
+        "lng": "-3.2080078125000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Villabanez",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:26:10.555Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64007838467894",
+        "lng": "-4.570312500000001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Berrocal de Huebra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T15:26:28.699Z",
+      "notes": "",
+      "position": {
+        "lat": "40.713955826286046",
+        "lng": "-5.998535156250001"
+      },
+      "id": 98443207
     }
   ]
 }
