@@ -1,160 +1,28 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🟠",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "⚪",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🔴",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Cairo",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2023-07-24T14:53:45.689Z",
-      "notes": "",
-      "position": {
-        "lat": "30.012030680358613",
-        "lng": "31.245117187500004"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Limbach-Oberfrohna",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2023-07-24T14:56:35.393Z",
-      "notes": "",
-      "position": {
-        "lat": "50.875311142200765",
-        "lng": "12.7001953125"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Balearic Sea",
+      "cityName": "Pajaroncillo",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-07-24T14:58:42.453Z",
+      "date": "2023-07-24T16:04:27.105Z",
       "notes": "",
       "position": {
-        "lat": "39.791654835253425",
-        "lng": "-0.087890625"
+        "lat": "39.977120098439634",
+        "lng": "-1.7358398437500002"
       },
-      "id": 98443200
+      "id": 1
     },
     {
-      "cityName": "Jumilla",
+      "cityName": "Herencia",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-07-24T15:20:45.503Z",
-      "notes": "that",
-      "position": {
-        "lat": "38.44498466889473",
-        "lng": "-1.3842773437500002"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Torreperogil",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:21:20.432Z",
+      "date": "2023-07-24T16:04:29.355Z",
       "notes": "",
       "position": {
-        "lat": "38.013476231041935",
-        "lng": "-3.251953125"
+        "lat": "39.14710270770074",
+        "lng": "-3.3837890625000004"
       },
-      "id": 98443202
-    },
-    {
-      "cityName": "Acered",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:22:49.070Z",
-      "notes": "",
-      "position": {
-        "lat": "41.178653972331674",
-        "lng": "-1.6259765625"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Lumbreras",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:23:40.024Z",
-      "notes": "",
-      "position": {
-        "lat": "42.081916678306335",
-        "lng": "-2.5927734375000004"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Santa Cruz del Valle Urbion",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:26:06.063Z",
-      "notes": "",
-      "position": {
-        "lat": "42.261049162113856",
-        "lng": "-3.2080078125000004"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Villabanez",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:26:10.555Z",
-      "notes": "",
-      "position": {
-        "lat": "41.64007838467894",
-        "lng": "-4.570312500000001"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Berrocal de Huebra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T15:26:28.699Z",
-      "notes": "",
-      "position": {
-        "lat": "40.713955826286046",
-        "lng": "-5.998535156250001"
-      },
-      "id": 98443207
+      "id": 2
     }
   ]
 }

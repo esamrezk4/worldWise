@@ -55,6 +55,29 @@ function CitiesProvider({ children }) {
       setIsLoading(false);
     }
   }
+
+  async function deleteCity(id) {
+    try {
+      setIsLoading(true);
+      await fetch(`${BASE_URL}/cities/${id}`, {
+        method: "DELETE",
+      });
+      setCities((cities) => cities.filter((city) => city.id !== id));
+    } catch {
+      alert("there was an error while loading data");
+    } finally {
+      setIsLoading(false);
+    }
+  }
+
+  //diff way to delete iitem without delete it from json file
+
+  // function deleteCity(id) {
+  //   setCities((oldValue) => {
+  //     return oldValue.filter((cities) => cities.id !== id);
+  //   });
+  //   console.log(cities.id);
+  // }
   return (
     <CitiesContext.Provider
       value={{
@@ -63,6 +86,7 @@ function CitiesProvider({ children }) {
         currentCity,
         getCity,
         createCity,
+        deleteCity,
       }}
     >
       {children}
