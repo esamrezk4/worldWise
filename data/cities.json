@@ -1,28 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Pajaroncillo",
+      "cityName": "Aliaga",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-07-24T16:04:27.105Z",
+      "date": "2023-07-24T18:21:36.198Z",
       "notes": "",
       "position": {
-        "lat": "39.977120098439634",
-        "lng": "-1.7358398437500002"
+        "lat": "40.68063802521456",
+        "lng": "-0.6811523437500001"
       },
       "id": 1
     },
     {
-      "cityName": "Herencia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-24T16:04:29.355Z",
+      "cityName": "Orieux",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-24T19:03:48.892Z",
       "notes": "",
       "position": {
-        "lat": "39.14710270770074",
-        "lng": "-3.3837890625000004"
+        "lat": "43.229195113965005",
+        "lng": "0.30761718750000006"
       },
       "id": 2
+    },
+    {
+      "cityName": "Baudenbach",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-07-24T19:04:44.618Z",
+      "notes": "tets",
+      "position": {
+        "lat": "49.61070993807422",
+        "lng": "10.546875000000002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Urda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-24T19:06:37.445Z",
+      "notes": "",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "-3.6914062500000004"
+      },
+      "id": 6
     }
   ]
 }
